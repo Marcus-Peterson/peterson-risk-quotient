@@ -1,2 +1,2 @@
-# peterson-risk-quotient
-PRQ, a easy to use formula for determine how much someone should invest in a given stock
+# Peterson Risk Quotient
+Sometimes it's hard to determine exactly how many stock a person should buy, the quotient combines psychological factors and income levels to help investors determine the right amount of stocks to buy
